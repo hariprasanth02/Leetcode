@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/hariprasanth02/Leetcode/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/hariprasanth02/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/hariprasanth02/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/hariprasanth02/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/hariprasanth02/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/hariprasanth02/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/hariprasanth02/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/hariprasanth02/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/hariprasanth02/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
