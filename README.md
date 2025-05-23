@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hariprasanth02/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/hariprasanth02/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/hariprasanth02/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/hariprasanth02/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -94,5 +95,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hariprasanth02/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/hariprasanth02/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
