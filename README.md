@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/hariprasanth02/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/hariprasanth02/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/hariprasanth02/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/hariprasanth02/Leetcode/tree/master/0229-majority-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/hariprasanth02/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/hariprasanth02/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/hariprasanth02/Leetcode/tree/master/0661-image-smoother) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hariprasanth02/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/hariprasanth02/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/hariprasanth02/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/hariprasanth02/Leetcode/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -113,8 +115,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/hariprasanth02/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/hariprasanth02/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/hariprasanth02/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/hariprasanth02/Leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hariprasanth02/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/hariprasanth02/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
