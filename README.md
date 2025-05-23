@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hariprasanth02/Leetcode/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/hariprasanth02/Leetcode/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/hariprasanth02/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/hariprasanth02/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/hariprasanth02/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -91,10 +92,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/hariprasanth02/Leetcode/tree/master/0018-4sum) |
 | [0861-flipping-an-image](https://github.com/hariprasanth02/Leetcode/tree/master/0861-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hariprasanth02/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/hariprasanth02/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/hariprasanth02/Leetcode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
