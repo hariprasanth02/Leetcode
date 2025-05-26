@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hariprasanth02/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/hariprasanth02/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/hariprasanth02/Leetcode/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/hariprasanth02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0566-reshape-the-matrix](https://github.com/hariprasanth02/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/hariprasanth02/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/hariprasanth02/Leetcode/tree/master/0661-image-smoother) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hariprasanth02/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/hariprasanth02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/hariprasanth02/Leetcode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/hariprasanth02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/hariprasanth02/Leetcode/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/hariprasanth02/Leetcode/tree/master/0861-flipping-an-image) |
 ## Recursion
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/hariprasanth02/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/hariprasanth02/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/hariprasanth02/Leetcode/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/hariprasanth02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/hariprasanth02/Leetcode/tree/master/0861-flipping-an-image) |
 ## Hash Table
 |  |
