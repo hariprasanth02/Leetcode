@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/hariprasanth02/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/hariprasanth02/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/hariprasanth02/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/hariprasanth02/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hariprasanth02/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/hariprasanth02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0566-reshape-the-matrix](https://github.com/hariprasanth02/Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/hariprasanth02/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hariprasanth02/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/hariprasanth02/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/hariprasanth02/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hariprasanth02/Leetcode/tree/master/0229-majority-element-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/hariprasanth02/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/hariprasanth02/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hariprasanth02/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/hariprasanth02/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/hariprasanth02/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hariprasanth02/Leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
