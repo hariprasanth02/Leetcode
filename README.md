@@ -229,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/hariprasanth02/Leetcode/tree/master/0148-sort-list) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/hariprasanth02/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
