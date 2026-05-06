@@ -241,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/hariprasanth02/Leetcode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/hariprasanth02/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [1068-product-sales-analysis-i](https://github.com/hariprasanth02/Leetcode/tree/master/1068-product-sales-analysis-i) |
+| [1070-product-sales-analysis-iii](https://github.com/hariprasanth02/Leetcode/tree/master/1070-product-sales-analysis-iii) |
 <!---LeetCode Topics End-->
