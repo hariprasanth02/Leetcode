@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/hariprasanth02/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/hariprasanth02/Leetcode/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/hariprasanth02/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/hariprasanth02/Leetcode/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/hariprasanth02/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/hariprasanth02/Leetcode/tree/master/1070-product-sales-analysis-iii) |
 <!---LeetCode Topics End-->
